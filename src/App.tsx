@@ -1,6 +1,3 @@
-import {useState} from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
@@ -23,7 +20,7 @@ function App() {
                         src="https://discord.com/widget?id=1375828439583428649&theme=dark"
                         width={350}
                         height={500}
-                        allowTransparency="true"
+                        allowTransparency={true}
                         frameBorder={0}
                         sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
                     />
