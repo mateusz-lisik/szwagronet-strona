@@ -9,8 +9,8 @@ function App() {
 
                 <div>
                     <h2><a href="https://discord.gg/kx6t5aGt4n">Dołącz do Diskorda</a>, wołamy na wspólne granie</h2>
-                    <div>
-                        <div style={{textAlign: 'left', maxWidth: '50%', display: 'flex', justifyContent: 'center'}}>
+                    <div style={{display: 'flex', justifyContent: 'space-around'}}>
+                        <div style={{textAlign: 'left', maxWidth: '50%'}}>
                             🚨 DOŁĄCZ DO NASZEGO SERWERA W ARMA REFORGER! 🚨<br/>
                             🎮 Szukasz miejsca, gdzie możesz poczuć prawdziwą intensywność gry w Arma Reforger? Chcesz
                             rywalizować, współpracować i przeżyć niezapomniane wojenne przygody? Nasz serwer to idealne
