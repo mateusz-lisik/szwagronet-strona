@@ -8,7 +8,30 @@ function App() {
                 <h1>Szwagro.net</h1>
 
                 <div>
-                    <h2>Dołącz do Diskorda, wołamy na wspólne granie</h2>
+                    <h2><a href="https://discord.gg/kx6t5aGt4n">Dołącz do Diskorda</a>, wołamy na wspólne granie</h2>
+                    <div>
+                        <div style={{textAlign: 'left', maxWidth: '50%', display: 'flex', justifyContent: 'center'}}>
+                            🚨 DOŁĄCZ DO NASZEGO SERWERA W ARMA REFORGER! 🚨<br/>
+                            🎮 Szukasz miejsca, gdzie możesz poczuć prawdziwą intensywność gry w Arma Reforger? Chcesz
+                            rywalizować, współpracować i przeżyć niezapomniane wojenne przygody? Nasz serwer to idealne
+                            miejsce dla Ciebie!
+                            Szwagro.net <br/>
+                            🌟 Co oferujemy?<br/>
+                            ✔️ [Tryb rozgrywki] – Conflict Vanilla!<br/>
+                            ✔️ [Wielkość serwera] - 128 slotów!<br/>
+                            ✔️ [Dodatkowe informacje] – Polski stabilny hosting, serwer znajduję się w Warszawie!<br/>
+                            ✔️ [Dobrą społeczność] – Przyjazna społeczność i administracja bo każdy jest dla nas
+                            Szwagrem.<br/>
+                            ✔️ [CROSSPLAY]<br/>
+                            🔧 Dlaczego warto?<br/>
+                            Nasz serwer jest stabilny i bezpieczny, dzięki czemu możesz skupić się tylko na grze!
+                            Serwer jest w pełni dostosowany do preferencji graczy, więc zawsze znajdziesz coś dla
+                            siebie.
+                            🔗 Dołącz teraz i bądź częścią naszej rosnącej społeczności!<br/>
+                            👉Pomóż nam budować nową historię Polskiej army!<br/>
+                            🎉 Zapraszamy do wspólnej zabawy! 🎉
+                        </div>
+                    </div>
                     <div className={"discordImage"}>
                         <a href="https://discord.gg/kx6t5aGt4n">
                             <img src="https://discord.com/api/guilds/1375828439583428649/widget.png?style=banner4"/>
