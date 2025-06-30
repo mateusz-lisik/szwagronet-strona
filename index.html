@@ -1,15 +1,28 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React + TS</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-    <script async src="https://www.tiktok.com/embed.js"></script>
-    <script type="application/javascript">window.addEventListener('message',function(e){if(e.data.uid&&e.data.type==='sizeUpdate'){var i = document.querySelector('iframe[name="'+e.data.uid+'"]');i.style.width = e.data.payload.width;i.style.height = e.data.payload.height;}});</script>
-  </body>
+<head>
+    <meta charset="UTF-8"/>
+    <link rel="icon" type="image/svg+xml" href="/vite.svg"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Szwagro.net - polski serwer Reforgera bez modów</title>
+    <meta name="description" content="Polski server ArmA Reforger bez modów, z luźnym podejscie"/>
+    <meta name="keywords" content="reforger,vanilla,polski,server"/>
+    <meta http-equiv="content-language" content="en"/>
+    <meta property="og:title" content="Szwagro.net"/>
+<!--    <meta property="og:description" content="Your page description goes here"/>-->
+<!--    <meta property="og:image" content="URL to your image"/>-->
+<!--    <meta property="og:url" content="URL to your page"/>-->
+</head>
+<body>
+<div id="root"></div>
+<script type="module" src="/src/main.tsx"></script>
+<script async src="https://www.tiktok.com/embed.js"></script>
+<script type="application/javascript">window.addEventListener('message', function (e) {
+    if (e.data.uid && e.data.type === 'sizeUpdate') {
+        var i = document.querySelector('iframe[name="' + e.data.uid + '"]');
+        i.style.width = e.data.payload.width;
+        i.style.height = e.data.payload.height;
+    }
+});</script>
+</body>
 </html>
